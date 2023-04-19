@@ -1,0 +1,1 @@
+Este repositorio contiene el código y los datos utilizados en un proyecto de análisis de datos financieros. Se exploraron relaciones entre variables y se modeló la capacidad de pago de clientes de un banco.
